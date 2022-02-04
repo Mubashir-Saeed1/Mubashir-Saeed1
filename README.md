@@ -30,7 +30,7 @@
     <br/>
 <br/>
 
-<a href="https://github.com/Mubashir-Saeed/github-readme-activity-graph"><img alt="Mubashir Saeed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mubashir-Saeed&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Mubashir-Saeed1/github-readme-activity-graph"><img alt="Mubashir Saeed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mubashir-Saeed1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -52,9 +52,9 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/mubashir-saeed-742ab9177/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Mubashir-Saeed"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/Mubashir-Saeed/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/Mubashir-Saeed"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<a href = "https://twitter.com/Mubashir_Saeed1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/mubashir5085/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/mubashir5085"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 
 </p>
 
@@ -62,4 +62,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Mubashir-Saeed1">
 </a>
-<a href="https://github.com/Mubashir-Saeed?tab=followers"><img src="https://img.shields.io/github/followers/Mubashir-Saeed?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Mubashir-Saeed1?tab=followers"><img src="https://img.shields.io/github/followers/Mubashir-Saeed1?label=Followers&style=social" alt="GitHub Badge"></a>
