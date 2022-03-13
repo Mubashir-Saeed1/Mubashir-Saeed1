@@ -33,6 +33,7 @@
 
 <br/>
 <br/>
+    <a href="https://app.daily.dev/Mubashir_Saeed"><img src="https://api.daily.dev/devcards/a02abe07f7914bf38cb0fba2a8be01a4.png?r=sv4" width="400" alt="Mubashir's Dev Card"/></a>
 </p>
 
 ## 📊 My Github Statistics
