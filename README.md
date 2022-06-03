@@ -1,7 +1,3 @@
-<p align="center">
-    <a href="https://app.daily.dev/Mubashir_Saeed"><img src="https://api.daily.dev/devcards/a02abe07f7914bf38cb0fba2a8be01a4.png?r=sv4" width="400" alt="Mubashir's Dev Card"/></a>
-    </p>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mubashir Saeed</h1>
 <h3 align="center">Young and passionate Computer Systems Engineer. Working with Android Development(Flutter) and Python (ML).</h3>
 
