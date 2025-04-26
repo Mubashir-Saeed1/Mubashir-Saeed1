@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mubashir Saeed</h1>
-<h3 align="center">Young and passionate Computer Systems Engineer. Working with Android Development(Flutter) and Python (ML).</h3>
+<h3 style="text-align: center;">Director & Co-Founder <a href="https://cuboidinc.com/">Cuboid Inc</a>.</h3>
 
 ## 🚀 Languages:
 
